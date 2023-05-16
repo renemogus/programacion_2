@@ -1,4 +1,4 @@
-<?ph
+<?php
     $nota1 = 10;
     $nota2 = 4;
     $nota3 = 3;
